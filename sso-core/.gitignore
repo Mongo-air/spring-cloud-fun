@@ -31,9 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
-/.mvn/wrapper/maven-wrapper.jar
-/.mvn/wrapper/maven-wrapper.properties
 /mvnw
 /mvnw.cmd
-/sso-samples/sso-token-sample/mvnw
-/sso-samples/sso-token-sample/mvnw.cmd
+/.mvn/
