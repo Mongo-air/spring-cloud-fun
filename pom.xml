@@ -51,6 +51,20 @@
         </license>
     </licenses>
 
+    <scm>
+        <tag>master</tag>
+        <url>https://github.com/xuxueli/xxl-sso.git</url>
+        <connection>scm:git:https://github.com/xuxueli/xxl-sso.git</connection>
+        <developerConnection>scm:git:git@github.com:xuxueli/xxl-sso.git</developerConnection>
+    </scm>
+    <developers>
+        <developer>
+            <id>XXL</id>
+            <name>xuxueli</name>
+            <email>931591021@qq.com</email>
+            <url>https://github.com/xuxueli</url>
+        </developer>
+    </developers>
 
     <profiles>
 

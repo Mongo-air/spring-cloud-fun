@@ -41,7 +41,7 @@
             <artifactId>spring-boot-starter-freemarker</artifactId>
         </dependency>
 
-        <!-- sso-core -->
+        <!-- xxl-sso-core -->
         <dependency>
             <groupId>com.fun</groupId>
             <artifactId>sso-core</artifactId>

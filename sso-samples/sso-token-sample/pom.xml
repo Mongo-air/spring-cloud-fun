@@ -39,7 +39,7 @@
             <scope>test</scope>
         </dependency>
 
-        <!-- sso-core -->
+        <!-- xxl-sso-core -->
         <dependency>
             <groupId>com.fun</groupId>
             <artifactId>sso-core</artifactId>
